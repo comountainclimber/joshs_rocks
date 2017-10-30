@@ -1,0 +1,12 @@
+html {
+  font-family: "Helvetica Neue"
+}
+li {
+  margin: 20px;
+}
+img#mock-up {
+  width: 750px;
+}
+.week-number {
+  text-transform: uppercase;
+}
